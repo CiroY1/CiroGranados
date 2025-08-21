@@ -8,7 +8,7 @@ Apasionado por la programación, el aprendizaje constante y la creación de solu
 ## 🚀 Tecnologías y Herramientas  
 - **Lenguajes:** Java, JavaScript, TypeScript, SQL  
 - **Frameworks & Librerías:** Spring Boot, Angular, Node.js  
-- **Bases de datos:** MySQL, PostgreSQL  
+- **Bases de datos:** MySQL, PostgreSQL, Oracle   
 - **Herramientas:** Git, GitHub, Postman, VS Code, IntelliJ  
 
 ---
@@ -28,5 +28,5 @@ Seguir creciendo como desarrollador, aportar a proyectos innovadores y compartir
 ---
 
 📫 **Contáctame:**  
-- ✉️ Email: *[tu correo aquí]*  
-- 💼 LinkedIn: *[tu perfil aquí]*  
+- ✉️ Email: *[Ciroalfonsogranadoszambrano@gmail.com]*  
+- 💼 LinkedIn: *[]*  
